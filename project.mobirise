@@ -13,21 +13,21 @@
         "warningColor": "#FFE161",
         "dangerColor": "#ff9966",
         "mainFont": "Jost",
-        "display1Font": "Montserrat",
+        "display1Font": "Poppins",
         "display1Size": 4.6,
-        "display2Font": "Montserrat",
+        "display2Font": "Poppins",
         "display2Size": 3,
-        "display5Font": "Montserrat",
+        "display5Font": "Poppins",
         "display5Size": 2,
-        "display7Font": "Montserrat",
+        "display7Font": "Poppins",
         "display7Size": 1.2,
-        "display4Font": "Montserrat",
+        "display4Font": "Poppins",
         "display4Size": 1.1,
-        "isRoundedButtons": false,
-        "isGhostButtonBorder": false,
+        "isRoundedButtons": true,
+        "isGhostButtonBorder": true,
         "underlinedLinks": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       },
       "additionalSetColors": [
         "#e4dad5",
@@ -42,14 +42,9 @@
     "versionFirst": "5.4.1",
     "siteFonts": [
       {
-        "css": "'Jost', sans-serif",
-        "name": "Jost",
-        "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
-      },
-      {
-        "css": "'Montserrat', sans-serif",
-        "name": "Montserrat",
-        "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+        "css": "'Poppins', sans-serif",
+        "name": "Poppins",
+        "url": "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
