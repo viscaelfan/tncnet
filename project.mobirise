@@ -23,8 +23,8 @@
         "display7Size": 1.2,
         "display4Font": "Source Sans Pro",
         "display4Size": 1.1,
-        "isRoundedButtons": true,
-        "isGhostButtonBorder": true,
+        "isRoundedButtons": false,
+        "isGhostButtonBorder": false,
         "underlinedLinks": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
