@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -18,7 +18,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -583,7 +583,7 @@ a:hover {
 }
 /* Scroll to top button*/
 .form-control {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -597,7 +597,7 @@ a:hover {
   border-color: #6592e6 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -703,7 +703,7 @@ a {
 .cid-sJzllHs8Yn .item-img {
   width: 100%;
   height: 100%;
-  height: 300px;
+  height: 400px;
   object-fit: cover;
 }
 .cid-sJzllHs8Yn .item:focus,
@@ -717,7 +717,7 @@ a {
 .cid-sJzllHs8Yn .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #e4dad5;
+  background: #f9f2ee;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -820,7 +820,7 @@ a {
 }
 .cid-sJxQ693kge .dropdown-menu,
 .cid-sJxQ693kge .navbar.opened {
-  background: #e4dad5 !important;
+  background: #fffaf8 !important;
 }
 .cid-sJxQ693kge .nav-item:focus,
 .cid-sJxQ693kge .nav-link:focus {
@@ -855,7 +855,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(228, 218, 213, 0.9);
+  background: rgba(255, 250, 248, 0.9);
 }
 .cid-sJxQ693kge .navbar.opened {
   transition: all 0.3s;
@@ -1000,7 +1000,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sJxQ693kge .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #e4dad5;
+  background: #fffaf8;
 }
 .cid-sJxQ693kge .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1105,7 +1105,7 @@ a {
 .cid-sJzypygAZo {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #bbbbbb;
+  background-color: #e4dad5;
 }
 .cid-sJzypygAZo .mbr-overlay {
   background-color: #ffffff;
