@@ -13,15 +13,15 @@
         "warningColor": "#FFE161",
         "dangerColor": "#ff9966",
         "mainFont": "Jost",
-        "display1Font": "Poppins",
+        "display1Font": "Source Sans Pro",
         "display1Size": 4.6,
-        "display2Font": "Poppins",
+        "display2Font": "Source Sans Pro",
         "display2Size": 3,
-        "display5Font": "Poppins",
+        "display5Font": "Source Sans Pro",
         "display5Size": 2,
-        "display7Font": "Poppins",
+        "display7Font": "Source Sans Pro",
         "display7Size": 1.2,
-        "display4Font": "Poppins",
+        "display4Font": "Source Sans Pro",
         "display4Size": 1.1,
         "isRoundedButtons": true,
         "isGhostButtonBorder": true,
@@ -42,9 +42,9 @@
     "versionFirst": "5.4.1",
     "siteFonts": [
       {
-        "css": "'Poppins', sans-serif",
-        "name": "Poppins",
-        "url": "https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+        "css": "'Source Sans Pro', sans-serif",
+        "name": "Source Sans Pro",
+        "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i"
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
@@ -790,6 +790,9 @@
               "div > *:last-child": {
                 "margin-top": "0 !important"
               }
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
             }
           },
           "_name": "footer4",
