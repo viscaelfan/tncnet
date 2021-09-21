@@ -47,8 +47,8 @@
         "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
-    "mbrsiteDomain": "dfr9r8rwnx",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon2-128x128.png",
+    "mbrsiteDomain": "zmob0hktvq",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -75,7 +75,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/440-0-3532768.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/440_0_3532768-105948-440x195.jpg"
       },
       "components": [
         {
