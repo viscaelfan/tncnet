@@ -769,7 +769,8 @@
               "text-align": "left"
             },
             ".mbr-text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".soc-item": {
               "display": "flex",
