@@ -1195,6 +1195,7 @@ a {
   list-style: none;
   padding-left: 0;
   color: #bbbbbb;
+  text-align: left;
 }
 @media (max-width: 991px) {
   .cid-sJxRwlLPLX .list {
