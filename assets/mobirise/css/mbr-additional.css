@@ -724,7 +724,7 @@ a {
 }
 .cid-sJzllHs8Yn {
   padding-top: 4rem;
-  padding-bottom: 3rem;
+  padding-bottom: 0rem;
   background-color: #fafafa;
 }
 .cid-sJzllHs8Yn img,
@@ -1261,4 +1261,7 @@ a {
 }
 .cid-sJxRwlLPLX .mbr-section-subtitle {
   text-align: left;
+}
+.cid-sJxRwlLPLX .copyright {
+  text-align: center;
 }
